@@ -1,0 +1,23 @@
+/* Center the content */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #b8bfc7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Style the main content */
+main {
+  text-align: center;
+}
+
+/* Style the heading */
+h1 {
+  color: #333;
+  font-size: 3rem;
+  font-weight: bold;
+}
